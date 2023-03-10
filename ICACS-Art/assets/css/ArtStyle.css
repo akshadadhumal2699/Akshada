@@ -1,0 +1,379 @@
+.background{
+	 background: url(../images/Artimages/background1.png) no-repeat;
+    background-size: cover;
+	    padding: 1em 0px 2em 0px !important;
+}
+.background2{
+	 background: url(../images/Artimages/background2.png) no-repeat;
+    background-size: contain;
+	   
+}
+.background3{
+	 background: url(../images/Artimages/background3.png) no-repeat;
+       background-size: contain;
+    padding: 4em 1em !important;
+    background-repeat: no-repeat;
+	   
+}
+.background4{
+	 background: url(../images/Artimages/background4.png) no-repeat;
+       background-size: contain;
+    padding: 2em 1em !important;
+    background-repeat: no-repeat;
+	   
+}
+.background5{
+	 background: url(../images/Artimages/background5.png) no-repeat;
+       background-size: cover;
+   padding: 3em 1em 7em 1em !important;
+    background-repeat: no-repeat;
+	   
+}
+.background6{
+	 background: url(../images/Artimages/background2.png) no-repeat;
+    background-size: cover;
+	 padding: 0em 0em 6em 0em !important;
+}
+.FAQbg{
+	background: transparent url('img/Rectangle 464.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 20px #00000029;
+ padding: 2em 1em !important;
+}
+.vBG {
+    width: 800px;
+    position: absolute;
+    z-index: -1;
+    margin-left: -22%;
+    margin-top: -19%;
+}
+.vPadding{
+	padding:4em !important;
+}
+.container-fluid {
+    padding-right: 55px !important;
+    padding-left: 55px !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+.sectionpadding{
+	margin-top:2em;
+	margin-bottom:2em;
+}
+.img_res{
+	width:100%;
+}
+.bannerIMG {
+    position: absolute;
+    left: -16%;
+    /* top: 35%; */
+    margin-top: 4%;
+    width: 108%;
+}
+.bannerinfo{
+	margin-top:8em;
+	margin-bottom:13em;
+}
+.bannerinfo p {
+    color: #EE5B54;
+    font-size: 16px;
+}
+.bannerinfo h1 {
+    font-size: 75px;
+    font-family: 'Playfair Display', serif;
+    line-height: 73px;
+    margin-top: 2px;
+    margin-bottom: 8%;
+	font-weight: 900;
+}
+.bannerinfo button {
+    color: white;
+    background: #EE5B54;
+    border: none;
+    padding: 10px 33px !important;
+    border-radius: 30px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
+.bluerouind{
+	    position: absolute;
+    z-index: 2;
+    width: 6%;
+    left: 69px;
+}
+.headingArt {
+    font-size: 70px;
+    font-family: 'Playfair Display', serif;
+    line-height: 93px;
+    margin-top: 2px;
+    margin-bottom: 3%;
+    margin-left: 58px;
+	z-index: 3;
+    position: relative;
+    font-weight: 900;
+}
+
+.Csection{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 8px 0px 19px #00000029;
+    padding: 2em !important;
+	    width: 334px !important;
+    margin:  2%;
+    min-height: 266px !important;
+}
+
+.Csection h2{
+	 font-family: 'Playfair Display', serif;
+	    color: #FF563F;
+    font-size: 52px;
+    font-weight: bold;
+    margin-bottom: 4%;
+	    margin-top: 0%;
+}
+.Csection p{
+	   font-size: 14px;
+    text-align: center;
+    margin-top: 13%;
+    font-family: 'Roboto', sans-serif;
+}
+.introS h2{
+    font-size: 42px;
+    margin-left: 0px;
+    line-height: 51px;
+    margin-top: 18%;
+    margin-bottom: 5%;
+ font-family: 'Playfair Display', serif;
+ font-weight: 900;
+ margin-left:8%;
+}
+.introS p{
+ font-size: 14px;
+       line-height: 26px;
+    margin-top: 6% !important;
+    font-family: 'Roboto', sans-serif;
+	 margin-left:8%;
+}
+.introS2 h2{
+   
+ margin-left:0% !important;
+}
+.introS2 p{
+ margin-left:0% !important;
+	
+}
+.introimg{
+width: 98%;
+}
+.introimg2{
+	width: 98%;
+	margin-left:8%;
+}
+.whyartsbox {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 8px 0px 19px #00000029;
+    border-radius: 20px;
+    margin: 4% 10px 6% 10px;
+    width: 242px !important;
+    /* box-shadow: 0px 1px 10px -1px grey; */
+    padding: 2em 1em;
+}
+.whyartsbox img{
+	    width: 70%;
+    margin-bottom: 12%;
+}
+.whyartsbox p {
+    font-size: 18px;
+  font-weight:600;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+
+.arrowleft {
+    background: url(../images/Artimages/leftarrow.png) no-repeat;
+    background-size: contain;
+    /* width: 20px !important; */
+    width: 80px;
+    height: 80px;
+    position: relative;
+    float: left;
+    display: inline-block;
+    margin-left: 98%;
+    
+    margin-top: -18%;
+}
+.arrowright{
+	  background: url(../images/Artimages/rightarrow.png) no-repeat;
+    background-size: contain;
+    /* width: 20px !important; */
+    width: 80px;
+    height: 80px;
+    position: relative;
+    float: left;
+    display: inline-block;
+    margin-left: 33%;
+  
+    margin-top: -18%;
+}
+.carousel-indicators .active {
+    width: 18px !important;
+    height: 18px !important;
+    margin: 0;
+    background-color: #FF563F !important;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 18px !important;
+    height: 18px !important;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid #FF563F !important;
+    border-radius: 10px;
+}
+.ArtNopadding{
+	padding:0px !important;
+}
+.redicon{
+	width:90%;
+}
+.CStext h3{
+	font-size: 24px;
+    margin-top: 19%;
+    margin-left: 2%;
+	font-weight: 300;
+	    font-family: 'Poppins', sans-serif;
+}
+.CStext p{
+	    font-size: 16px;
+    font-weight: 600;
+	    font-family: 'Poppins', sans-serif;
+		 margin-left: 2%;
+}
+.ArtNopadding2{
+	padding:0px 2% 6em 2% !important
+	}
+.whyBA {
+ background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border-radius: 20px;
+    margin: 2% 10px 6% 10px;
+    width: 198px !important;
+    /* box-shadow: 0px 1px 10px -1px grey; */
+    padding: 2em 1em;
+	    min-height: 251px !important;
+}
+.whyBA img{
+	 width: 100%;
+    margin-bottom: 12%;
+}
+.whyBA p{
+	 font-size: 15px;
+  font-weight:600;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.paddingS{
+	    padding: 0px 0px 9em 0px !important;
+}
+.headingArt2{
+	    font-size: 48px !important;
+}
+.panel-group .panel {
+        background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 0px 6px #00000029 !important;
+    border-radius: 15px !important; 
+    margin-bottom: 3% !important;
+
+}
+.panel-group .panel:hover {
+	 background: #ff595e !important;
+			 color:white !important;
+}
+.panel-default> .panel-heading:hover {
+	 background: #f13c41  !important;
+			 color:white !important;
+ }
+ .accordion-toggle:hover {
+         text-decoration: none;
+		   
+         }
+         .panel-default>.panel-heading {
+         color: #fff;
+        background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 0px 6px #00000029 !important;
+    border-radius: 15px !important; 
+   
+	padding:2% 2% !important;
+         }
+         .glyphicon {
+         position: relative;
+         top: 1px;
+         display: inline-block;
+         font-family: "Glyphicons Halflings";
+         font-style: normal;
+         font-weight: 400;
+         line-height: 1;
+         float: right;
+         -webkit-font-smoothing: antialiased;
+         -moz-osx-font-smoothing: grayscale;
+         }
+         .panel-default>.panel-heading {
+         color: black;
+         background-color: transparent;
+         border-color: #ef715f;
+         font-weight: bold;
+         font-size: 22px;
+         }
+         .panel-title {
+         margin-top: 0;
+         margin-bottom: 0;
+         font-size: 17px !important;
+         color: inherit;
+         font-weight: bold;
+         }
+		 .headbanner2{
+			     font-size: 53px !important; 
+    font-family: 'Playfair Display', serif;
+    line-height: 67px !important; 
+    margin-top: 2px;
+    margin-bottom: 8%;
+    font-weight: 900;
+		 }
+@media only screen and (max-width: 600px) {
+  .bannerinfo h1 {
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+    line-height: 28px;
+    margin-top: 2px;
+    margin-bottom: 8%;
+}
+.bannerinfo button {
+    color: white;
+    background: #EE5B54;
+    border: none;
+    padding: 7px 16px !important;
+    border-radius: 30px;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
+.bannerIMG {
+    position: unset;
+    left: 0%;
+    /* top: 35%; */
+    margin-top: 0%;
+    width: 100%;
+}
+.headbanner2 {
+    font-size: 28px !important;
+    font-family: 'Playfair Display', serif;
+    line-height: 37px !important;
+    margin-top: 2px;
+    margin-bottom: 8%;
+    font-weight: 900;
+}
+}
